@@ -1,0 +1,5 @@
+# makerom.py output file
+rom.bin
+
+# compile_asm.sh (vasm) output file
+a.out
